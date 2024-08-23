@@ -1,0 +1,4 @@
+we have made a sample backend server and have to deploy it 
+all the sensitive information is not deployed 
+
+so to ensure that we dont deploy sensitive information we use dot_env package 
